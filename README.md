@@ -6,9 +6,9 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: Josué Daniel Díaz Baque
+* Ocupación: Estudiante de Ingeniería en Ciencias Computaciónales en la Escuela Superior Politécnica del Litoral (ESPOL).
+* Lugar de residencia: Guayaquil, Ecuador.
 * Sitio web: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]
