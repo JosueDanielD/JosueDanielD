@@ -25,7 +25,7 @@ Aquí encontrarás algunos de mis proyectos destacados:
 
 | Proyecto | Descripción | Tecnologías | Estado | Enlace |
 |---------|-------------|-------------|--------|--------|
-| **Aplicación para compra de boletos de cine** | Aplicación para gestionar la venta de boletos de un cine. | Java| ✅ Finalizado | [Ver proyecto](#) |
+| **Aplicación para compra de boletos de cine** | Aplicación para gestionar la venta de boletos de un cine. | Java| ✅ Finalizado | [Ver proyecto](https://github.com/lacedeno11/CinemaSeatDS) |
 
 > 🖼️ *Puedes incluir capturas de pantalla de cada proyecto en sus respectivos repositorios o enlazarlas aquí.*
 
