@@ -7,7 +7,7 @@ Bienvenido a mi sitio personal. Aquí encontrarás información sobre mí, mis p
 - [Información personal](#información-personal)
 - [Proyectos](#proyectos)
 - [Intereses](#intereses)
-- [Tecnologías que utilizo](#tecnologías-que-utilizo)
+- [Tecnologías que utilizo](#tecnologias-que-utilizo)
 - [Contacto](#contacto)
 
 ## 🙋 Información personal <a name="informacion-personal"></a>
