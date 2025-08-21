@@ -19,7 +19,7 @@ Bienvenido a mi sitio personal. Aquí encontrarás información sobre mí, mis p
 - **Sitio web:** [Mi sitio web](#)  
 - **Correo institucional:** `---@espol.edu.ec`  
 
-## 💻 Proyectos
+## 💻 Proyectos <a name="proyectos"></a>
 
 Aquí encontrarás algunos de mis proyectos destacados:
 
@@ -29,7 +29,7 @@ Aquí encontrarás algunos de mis proyectos destacados:
 
 > 🖼️ *Puedes incluir capturas de pantalla de cada proyecto en sus respectivos repositorios o enlazarlas aquí.*
 
-## 🎯 Intereses
+## 🎯 Intereses <a name="intereses"></a>
 
 - Desarrollo web full-stack
 - Inteligencia artificial
@@ -37,14 +37,14 @@ Aquí encontrarás algunos de mis proyectos destacados:
 - Automatización con Python
 - Diseño de interfaces de usuario (UI/UX)
 
-## 🛠️ Tecnologías que utilizo
+## 🛠️ Tecnologías que utilizo <a name="tecnologias-que-utilizo"></a>
 
 - **Lenguajes:** Python, JavaScript, Java
 - **Frameworks:** React
 - **Bases de datos:** MySQL
 - **Herramientas:** Git, GitHub, VSCode, Figma
 
-## 📬 Contacto
+## 📬 Contacto <a name="contacto"></a>
 
 - Correo: `josue.diaz@espol.edu.ec`  
 - LinkedIn: [Tu perfil de LinkedIn](#)  
