@@ -10,7 +10,7 @@ Bienvenido a mi sitio personal. Aquí encontrarás información sobre mí, mis p
 - [Tecnologías que utilizo](#tecnologías-que-utilizo)
 - [Contacto](#contacto)
 
-## 🙋 Información personal
+## 🙋 Información personal <a name="informacion-personal"></a>
 
 - **Nombre:** Josué Daniel Díaz Baque  
 - **Ocupación:** Estudiante de Ingeniería en Ciencias Computacionales  
