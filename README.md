@@ -20,17 +20,18 @@ Bienvenido a mi sitio personal. Aquí encontrarás información sobre mí, mis p
 
 ## 💻 Proyectos y PORTAFOLIO <a name="proyectos"></a>
 
-Aquí encontrarás algunos de mis proyectos destacados:
+Aquí encontrarás algunos de mis proyectos destacados.  
+Mis repositorios son privados, pero puedes **solicitar un demo** o ver más detalles en mi [Portafolio Visual](https://www.canva.com/design/DAGwwfN11Ac/OlVv4TfuDRv9SbvJPhwEhg/edit?ui=eyJBIjp7fX0).
 
 | Proyecto | Descripción | Tecnologías | Estado | Enlace |
-|---------|-------------|-------------|--------|--------|
-| **Aplicación para compra de boletos de cine** | Aplicación para gestionar la venta de boletos de un cine. | Java| ✅ Finalizado | [Ver proyecto](https://github.com/lacedeno11/CinemaSeatDS) |
-|**Sistema de licencias basada en hardware** | Sistema de control de distribución de aplicaciones mediante identificador único por dispositivo. | UI: HTML, CSS y React.
-Seguridad y licenciamiento: AES-256 Encryption, SHA 256 Hashing, hardware fingerprinting, CryptoJS. | ✅ Finalizado | [Ver portafolio] (https://www.canva.com/design/DAGwwfN11Ac/OlVv4TfuDRv9SbvJPhwEhg/edit?ui=eyJBIjp7fX0) |
+|----------|-------------|-------------|--------|--------|
+| **Aplicación para compra de boletos de cine** | Aplicación de escritorio para gestionar la venta de boletos de un cine. | Java | ✅ Finalizado | [Ver proyecto](https://github.com/lacedeno11/CinemaSeatDS) |
+| **Sistema de licencias basada en hardware** | Generación de un identificador único de dispositivo mediante múltiples huellas de hardware, usado como clave primaria para validar licencias y controlar la distribución. | UI: HTML, CSS, React <br> Seguridad: AES-256, SHA-256, Hardware Fingerprinting, CryptoJS | ✅ Finalizado | [Ver portafolio](https://www.canva.com/design/DAGwwfN11Ac/OlVv4TfuDRv9SbvJPhwEhg/edit?ui=eyJBIjp7fX0) |
+| **Merrill Palmer Automatizada** | Aplicación de escritorio (Electron) que automatiza la generación de informes de la evaluación neuropsicológica Merrill-Palmer R, optimizando tiempos y reduciendo errores. | HTML, CSS, TypeScript, React, Electron | ✅ Finalizado | [Ver portafolio](https://www.canva.com/design/DAGwwfN11Ac/OlVv4TfuDRv9SbvJPhwEhg/edit?ui=eyJBIjp7fX0) |
+| **ELO Automatizada** | Aplicación de escritorio para la automatización de informes de la Evaluación del Lenguaje Oral (ELO). Incluye almacenamiento mediante Node.js. | HTML, CSS, TypeScript, React, Electron, Node.js | ✅ Finalizado | [Ver portafolio](https://www.canva.com/design/DAGwwfN11Ac/OlVv4TfuDRv9SbvJPhwEhg/edit?ui=eyJBIjp7fX0) |
 
-
-
-Observa aquí mi [PORTAFOLIO] (https://www.canva.com/design/DAGwwfN11Ac/OlVv4TfuDRv9SbvJPhwEhg/edit?ui=eyJBIjp7fX0)
+---
+🔗 Observa aquí mi [PORTAFOLIO COMPLETO](https://www.canva.com/design/DAGwwfN11Ac/OlVv4TfuDRv9SbvJPhwEhg/edit?ui=eyJBIjp7fX0)
 
 
 ## 🎯 Intereses <a name="intereses"></a>
