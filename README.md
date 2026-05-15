@@ -40,5 +40,5 @@ I build scalable ETL pipelines, deploy MLOps solutions, and architect AI-driven 
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** http://www.linkedin.com/in/josu%C3%A9-d%C3%ADaz-baque-441151219 *
+* **LinkedIn:** http://www.linkedin.com/in/josu%C3%A9-d%C3%ADaz-baque-441151219
 * **Email:** josdbaqu@espol.edu.ec
